@@ -1,0 +1,21 @@
+Mohammed Khandwawala
+EE16B117
+
+ee16b117_PA1
+--code
+  --plots
+  --pycache
+  --problem1.py
+  --problem2.py
+  --problem3.py
+  --problem4.py
+  --comp1.py
+--readme
+--report.pdf
+
+shown above it the directory structure of the submission. 
+problem1.py is the program for e-greedy
+problem2.py is the program for softmax
+problem3.py is the program for UCB1
+comp1.py is the program for comparing UCB, softmax and e-greedy
+problem4.py is for Median Elimination

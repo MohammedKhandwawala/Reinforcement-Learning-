@@ -1,0 +1,9 @@
+# For Q1
+
+run algorithm.py all the parameters can changed inside the file . 
+contains code for all 3 algos SARSA , SARSA-lambda and Q-learning
+
+# For Q2
+
+run rollout.py contains all the parameters and can be changed.
+
